@@ -1,1 +1,1 @@
-Hi this Repository is pratice git and github.
+Hi this Repository study for git and github.
